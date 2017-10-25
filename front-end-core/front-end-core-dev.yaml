@@ -3,3 +3,6 @@ modules:
   - name: SimpleComponent
     js: 'http://localhost:8080/portal-portfolio-article-writer-0.0.1-SNAPSHOT/bundle.js'
     css: 'http://localhost:8080/portal-portfolio-article-writer-0.0.1-SNAPSHOT/bundle.css'
+  - name: Housagotchi
+    js: 'http://localhost:8080/portal/housagotchi/bundle.js'
+    css: 'http://localhost:8080/portal/housagotchi/bundle.css'
