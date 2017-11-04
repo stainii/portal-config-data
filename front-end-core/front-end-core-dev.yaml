@@ -9,4 +9,4 @@ modules:
     js: 'http://localhost:8080/portal/housagotchi/bundle.js'
     css: 'http://localhost:8080/portal/housagotchi/bundle.css'
     host: 'http://localhost:8080/'
-    contextRoot: 'portal/housagotchi/'
+    contextRoot: 'portal/module/housagotchi/'
