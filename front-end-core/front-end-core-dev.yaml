@@ -6,7 +6,7 @@ modules:
     host: 'http://localhost:8080/'
     contextRoot: 'portal-portfolio-article-writer-0.0.1-SNAPSHOT/'
   - name: Housagotchi
-    js: 'http://localhost:8080/portal/housagotchi/bundle.js'
-    css: 'http://localhost:8080/portal/housagotchi/bundle.css'
+    js: 'http://localhost:8080/portal/module/housagotchi/bundle.js'
+    css: 'http://localhost:8080/portal/module/housagotchi/bundle.css'
     host: 'http://localhost:8080/'
     contextRoot: 'portal/module/housagotchi/'
