@@ -1,12 +1,6 @@
 greeting: front-end-core-dev
 modules:
   - name: SimpleComponent
-    js: 'http://localhost:8080/portal-portfolio-article-writer-0.0.1-SNAPSHOT/bundle.js'
-    css: 'http://localhost:8080/portal-portfolio-article-writer-0.0.1-SNAPSHOT/bundle.css'
-    host: 'http://localhost:8080/'
-    contextRoot: 'portal-portfolio-article-writer-0.0.1-SNAPSHOT/'
+    url: 'http://localhost:8080/portal-portfolio-article-writer-0.0.1-SNAPSHOT/'
   - name: Housagotchi
-    js: 'http://localhost:8080/portal/module/housagotchi/bundle.js'
-    css: 'http://localhost:8080/portal/module/housagotchi/bundle.css'
-    host: 'http://localhost:8080/'
-    contextRoot: 'portal/module/housagotchi/'
+    url: 'http://localhost:3001'
