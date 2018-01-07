@@ -1,6 +1,11 @@
 greeting: front-end-core-dev
 modules:
+  - name: Notifications
+    url: 'http://localhost:2003/'
+    openByDefault: true
   - name: SimpleComponent
     url: 'http://localhost:8080/portal-portfolio-article-writer-0.0.1-SNAPSHOT/'
+    openByDefault: false
   - name: Housagotchi
     url: 'http://localhost:2002'
+    openByDefault: false
