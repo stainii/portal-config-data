@@ -1,0 +1,7 @@
+modules:
+  - name: Notifications
+    url: 'http://stijnhooftportal.westeurope.cloudapp.azure.com:2003/'
+    openByDefault: true
+  - name: Housagotchi
+    url: 'http://stijnhooftportal.westeurope.cloudapp.azure.com:2002/'
+    openByDefault: false
