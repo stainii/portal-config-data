@@ -5,3 +5,6 @@ modules:
   - name: Housagotchi
     url: 'http://stijnhooftportal.westeurope.cloudapp.azure.com:2002/'
     openByDefault: false
+  - name: Monitoring
+    url: 'http://stijnhooftportal.westeurope.cloudapp.azure.com:8761/'
+    openByDefault: false
